@@ -7,12 +7,12 @@
 Jeecg-Boot 快速开发平台（前后端分离版本）
 ===============
 
-当前最新版本： 2.1.4（发布日期：2020-02-24）
+当前最新版本： 2.2.0（发布日期：2020-05-06）
 
 
 [![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
 [![](https://img.shields.io/badge/Author-JEECG团队-orange.svg)](http://www.jeecg.com)
-[![](https://img.shields.io/badge/version-2.1.4-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
+[![](https://img.shields.io/badge/version-2.2.0-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
 [![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
 [![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
 
@@ -45,11 +45,11 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 
 - 开发文档：  [http://doc.jeecg.com](http://doc.jeecg.com/1273753)
 
-- 视频教程  ：[JeecgBoot入门系列视频](https://space.bilibili.com/454617261/channel/detail?cid=84186)
+- 视频教程  ：[JeecgBoot入门视频教程](http://www.jeecg.com/doc/video)
 
 - 常见问题：  [入门常见问题大全](http://bbs.jeecg.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
 
-- 更新日志：  [版本日志](http://www.jeecg.com/#/doc/changelog)
+- 更新日志：  [版本日志](http://www.jeecg.com/doc/log)
 
 
 
@@ -60,7 +60,7 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 
 - 反馈问题：  [反馈问题，请按格式发Issues](https://github.com/zhangdaiscott/jeecg-boot/issues/new)
 
-- 参与开源：  [欢迎加入JEECG开源团队，共同进步！！](http://www.jeecg.com/#/doc/canyu-os)
+- 参与开源：  [欢迎加入JEECG开源团队，共同进步！！](http://www.jeecg.com/doc/join)
 
 - Online一分钟：  [1分钟快速学习](https://my.oschina.net/jeecg/blog/3083313)
 
